@@ -17,6 +17,9 @@ repo_part: "MakeyMakey"
 product_url: "https://www.makeymakey.com/"
 clone_url: "https://github.com/Make-Your-School/mks-JoyLabz-MakeyMakey.git"
 embedded_example_file: "examples/MakeyMakey_minimal/MakeyMakey_minimal.ino"
+title: 'Makey-Makey'
+status: 'active'
+difficulty: 'recommend'
 ---
 
 
